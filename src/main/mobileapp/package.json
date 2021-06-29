@@ -1,0 +1,15 @@
+{
+  "name": "io.cronapp.apps.vaigiti",
+  "displayName": "VaiGit-i",
+  "version": "1.0.0",
+  "description": "VaiGit-i",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cronapi-js": "git+https://github.com/technecloud/cronapi-js.git#3ffed46ab12698180ac696dc9ecb634ff548242e"
+  }
+}
